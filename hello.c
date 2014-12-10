@@ -1,4 +1,4 @@
 void main ()
 {
-  xprintf ("Hello, Geoff!");
+  printf ("Hello, Geoff!");
 }
